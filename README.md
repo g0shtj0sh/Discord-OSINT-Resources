@@ -1,4 +1,4 @@
-# 🕵️ Discord OSINT - Guide Complet des Ressources 🕵️
+# 🕵️ Discord - Guide Complet des Ressources 🕵️
 
 ## 📑 Sommaire
 
@@ -252,6 +252,7 @@ Ce dépôt combine les ressources de :
 ---
 
 **Note** : Ce dépôt est maintenu à des fins éducatives et de recherche OSINT légitimes. Utilisez ces ressources de manière responsable et conforme aux conditions d'utilisation de Discord.
+
 
 
 
